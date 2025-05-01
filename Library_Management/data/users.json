@@ -1,0 +1,497 @@
+[ {
+  "userId" : "U2000",
+  "name" : "Admin",
+  "email" : "admin@library.com",
+  "libraryCardNumber" : "ADM001",
+  "role" : "ADMIN",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U2001",
+  "name" : "Alice Smith",
+  "email" : "alice@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U2002",
+  "name" : "Khayyam",
+  "email" : "khayyam@gmail.com",
+  "libraryCardNumber" : "LC1000",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 10
+}, {
+  "userId" : "U2004",
+  "name" : "Khayyam2",
+  "email" : "khayyam2@gmail.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ "9780434701278", "9782920033744", "TESTISBN" ],
+  "bookCount" : 3
+}, {
+  "userId" : "U999",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC000",
+  "role" : "USER",
+  "issuedBooks" : [ "TESTISBN" ],
+  "bookCount" : 1
+}, {
+  "userId" : "U9001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : null,
+  "role" : null,
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U2004",
+  "name" : "Khayyam2",
+  "email" : "khayyam2@gmail.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U9001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : null,
+  "role" : null,
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U2004",
+  "name" : "Khayyam2",
+  "email" : "khayyam2@gmail.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U9001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : null,
+  "role" : null,
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U2004",
+  "name" : "Khayyam2",
+  "email" : "khayyam2@gmail.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U9001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : null,
+  "role" : null,
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ "TestID" ],
+  "bookCount" : 1
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ "BOOK4" ],
+  "bookCount" : 1
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1005",
+  "name" : "Test User5",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ "TestID5" ],
+  "bookCount" : 1
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1005",
+  "name" : "Test User5",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1001",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1006",
+  "name" : "Test User5",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1006",
+  "role" : "USER",
+  "issuedBooks" : [ "TestID6" ],
+  "bookCount" : 1
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1007",
+  "name" : "Test User7",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1007",
+  "role" : "USER",
+  "issuedBooks" : [ "TestID7" ],
+  "bookCount" : 1
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1007",
+  "name" : "Test User7",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1007",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 1
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1007",
+  "name" : "Test User7",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1007",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 1
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1007",
+  "name" : "Test User7",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1007",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 1
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U1002",
+  "name" : "Another User",
+  "email" : "another@example.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 4
+}, {
+  "userId" : "U1007",
+  "name" : "Test User7",
+  "email" : "test@example.com",
+  "libraryCardNumber" : "LC1007",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 1
+}, {
+  "userId" : "U1003",
+  "name" : "Limit User",
+  "email" : "limit@example.com",
+  "libraryCardNumber" : "LC1003",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 3
+}, {
+  "userId" : "U2004",
+  "name" : "Khayyam2",
+  "email" : "khayyam2@gmail.com",
+  "libraryCardNumber" : "LC1002",
+  "role" : "USER",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U9001",
+  "name" : "Test User",
+  "email" : "test@example.com",
+  "libraryCardNumber" : null,
+  "role" : null,
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+}, {
+  "userId" : "U2062",
+  "name" : "Test16",
+  "email" : "test16@dffd.com",
+  "libraryCardNumber" : "No card",
+  "role" : "ADMIN",
+  "issuedBooks" : [ ],
+  "bookCount" : 0
+} ]

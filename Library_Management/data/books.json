@@ -1,0 +1,847 @@
+[ {
+  "bookId" : "B1001",
+  "title" : "Java program",
+  "author" : "Khayyam",
+  "isbn" : "1234567893214",
+  "publicationYear" : 2025,
+  "quantity" : 1,
+  "available" : 1,
+  "lost" : 0
+}, {
+  "bookId" : "B1002",
+  "title" : "User2",
+  "author" : "User2",
+  "isbn" : "1234567891111",
+  "publicationYear" : 2024,
+  "quantity" : 2,
+  "available" : 1,
+  "lost" : 0
+}, {
+  "bookId" : "B1003",
+  "title" : "Java3",
+  "author" : "User3",
+  "isbn" : "9782920033744",
+  "publicationYear" : 2025,
+  "quantity" : 4,
+  "available" : 2,
+  "lost" : 0
+}, {
+  "bookId" : "B1004",
+  "title" : "Java4",
+  "author" : "User4",
+  "isbn" : "9780434701278",
+  "publicationYear" : 2024,
+  "quantity" : 1,
+  "available" : 0,
+  "lost" : 2
+}, {
+  "bookId" : "B1005",
+  "title" : "Java5",
+  "author" : "User5",
+  "isbn" : "9782920033764",
+  "publicationYear" : 2022,
+  "quantity" : 2,
+  "available" : 2,
+  "lost" : 0
+}, {
+  "bookId" : "B1006",
+  "title" : "java6",
+  "author" : "user6",
+  "isbn" : "9782666712263",
+  "publicationYear" : 2021,
+  "quantity" : 4,
+  "available" : 3,
+  "lost" : 1
+}, {
+  "bookId" : "B1007",
+  "title" : "Java7",
+  "author" : "user7",
+  "isbn" : "9785538120722",
+  "publicationYear" : 2019,
+  "quantity" : 100,
+  "available" : 86,
+  "lost" : 0
+}, {
+  "bookId" : "B1008",
+  "title" : "java8",
+  "author" : "user8",
+  "isbn" : "9785635561406",
+  "publicationYear" : 2018,
+  "quantity" : 2,
+  "available" : 2,
+  "lost" : 0
+}, {
+  "bookId" : "B1009",
+  "title" : "java9",
+  "author" : "user9",
+  "isbn" : "9784941521806",
+  "publicationYear" : 2016,
+  "quantity" : 2,
+  "available" : 1,
+  "lost" : 1
+}, {
+  "bookId" : null,
+  "title" : "Mock Book",
+  "author" : null,
+  "isbn" : "TESTISBN",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 1,
+  "lost" : 0
+}, {
+  "bookId" : null,
+  "title" : "JUnit for Beginners",
+  "author" : null,
+  "isbn" : "ISBN123",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 0,
+  "lost" : 0
+}, {
+  "bookId" : null,
+  "title" : "Mock Book",
+  "author" : null,
+  "isbn" : "TESTISBN",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 1,
+  "lost" : 0
+}, {
+  "bookId" : null,
+  "title" : "JUnit for Beginners",
+  "author" : null,
+  "isbn" : "ISBN123",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 0,
+  "lost" : 0
+}, {
+  "bookId" : null,
+  "title" : "Mock Book",
+  "author" : null,
+  "isbn" : "TESTISBN",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 1,
+  "lost" : 0
+}, {
+  "bookId" : null,
+  "title" : "JUnit for Beginners",
+  "author" : null,
+  "isbn" : "ISBN123",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 0,
+  "lost" : 0
+}, {
+  "bookId" : null,
+  "title" : "Test Book",
+  "author" : null,
+  "isbn" : "TESTISBN",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 1,
+  "lost" : 0
+}, {
+  "bookId" : null,
+  "title" : "JUnit for Beginners",
+  "author" : null,
+  "isbn" : "ISBN123",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 0,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID",
+  "title" : "TestTitle",
+  "author" : "TestAuthor",
+  "isbn" : "TestISBN",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID",
+  "title" : "TestTitle",
+  "author" : "TestAuthor",
+  "isbn" : "TestISBN",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID",
+  "title" : "TestTitle",
+  "author" : "TestAuthor",
+  "isbn" : "TestISBN",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID",
+  "title" : "TestTitle",
+  "author" : "TestAuthor",
+  "isbn" : "TestISBN",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID",
+  "title" : "TestTitle",
+  "author" : "TestAuthor",
+  "isbn" : "TestISBN",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID",
+  "title" : "TestTitle",
+  "author" : "TestAuthor",
+  "isbn" : "TestISBN",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID5",
+  "title" : "TestTitle5",
+  "author" : "TestAuthor5",
+  "isbn" : "TestISBN5",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID5",
+  "title" : "TestTitle5",
+  "author" : "TestAuthor5",
+  "isbn" : "TestISBN5",
+  "publicationYear" : 2024,
+  "quantity" : 7,
+  "available" : 7,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID6",
+  "title" : "TestTitle6",
+  "author" : "TestAuthor6",
+  "isbn" : "TestISBN6",
+  "publicationYear" : 2024,
+  "quantity" : 7,
+  "available" : 7,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID6",
+  "title" : "TestTitle7",
+  "author" : "TestAuthor7",
+  "isbn" : "TestISBN7",
+  "publicationYear" : 2024,
+  "quantity" : 5,
+  "available" : 5,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID6",
+  "title" : "TestTitle7",
+  "author" : "TestAuthor7",
+  "isbn" : "TestISBN7",
+  "publicationYear" : 2024,
+  "quantity" : 5,
+  "available" : 5,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID6",
+  "title" : "TestTitle7",
+  "author" : "TestAuthor7",
+  "isbn" : "TestISBN7",
+  "publicationYear" : 2024,
+  "quantity" : 5,
+  "available" : 5,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID6",
+  "title" : "TestTitle7",
+  "author" : "TestAuthor7",
+  "isbn" : "TestISBN7",
+  "publicationYear" : 2024,
+  "quantity" : 5,
+  "available" : 5,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID6",
+  "title" : "TestTitle7",
+  "author" : "TestAuthor7",
+  "isbn" : "TestISBN7",
+  "publicationYear" : 2024,
+  "quantity" : 5,
+  "available" : 5,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "TestID2",
+  "title" : "TestTitle2",
+  "author" : "TestAuthor2",
+  "isbn" : "TestISBN2",
+  "publicationYear" : 2024,
+  "quantity" : 10,
+  "available" : 10,
+  "lost" : 0
+}, {
+  "bookId" : "TestID6",
+  "title" : "TestTitle7",
+  "author" : "TestAuthor7",
+  "isbn" : "TestISBN7",
+  "publicationYear" : 2024,
+  "quantity" : 5,
+  "available" : 5,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK1",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK2",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : "BOOK3",
+  "title" : "First Book",
+  "author" : "",
+  "isbn" : "",
+  "publicationYear" : 0,
+  "quantity" : 3,
+  "available" : 3,
+  "lost" : 0
+}, {
+  "bookId" : null,
+  "title" : "Test Book",
+  "author" : null,
+  "isbn" : "TESTISBN",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 1,
+  "lost" : 0
+}, {
+  "bookId" : null,
+  "title" : "JUnit for Beginners",
+  "author" : null,
+  "isbn" : "ISBN123",
+  "publicationYear" : 0,
+  "quantity" : 0,
+  "available" : 0,
+  "lost" : 0
+} ]
